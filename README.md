@@ -14,3 +14,6 @@ https://github.com/volatilityfoundation/community3/tree/master/Stelte_Evtx
 https://github.com/volatilityfoundation/community/tree/master/FrancescoPicasso
 
 https://github.com/0xHasanM/regexplore
+
+https://github.com/forensicxlab/volatility3_plugins
+
