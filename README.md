@@ -17,3 +17,4 @@ https://github.com/0xHasanM/regexplore
 
 https://github.com/forensicxlab/volatility3_plugins
 
+Pull Request from `miszr`
